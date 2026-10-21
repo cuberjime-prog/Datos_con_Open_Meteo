@@ -101,6 +101,6 @@ The catalog name and schema must match the environment configuration.
 
 ## Author
 
-Data Engineering Portfolio Project
+Moises Cubero Jimenez
 
 Developed using Databricks Free Edition, Python, PySpark, SQL, Delta Lake, and Open-Meteo.
